@@ -45,8 +45,8 @@ nav a {
 }
 .wed1 {
     display: inline;
-    width: 400px;
-    height: 300px;
+    width: 370px;
+    height: 200px;
     padding: 10px;
     border-radius: 10px;
     transition: box-shadow 0.3s ease; 
@@ -64,8 +64,8 @@ nav a {
 }
 .bir2 {
     display: inline;
-    width: 30%;
-    height: 20%;
+    width: 370PX;
+    height: 200px;
     padding: 10px;
     border-radius: 10px;
     margin: 0;
