@@ -213,6 +213,7 @@ form button:active {
     background-color: #16181660;
 }
 .h1 {
+    color: black;
     text-align: center;
     text-decoration: underline;
     font-weight: 1000;
