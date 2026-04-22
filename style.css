@@ -201,3 +201,14 @@ form button:active {
 .p4 {
     font-weight: 900;
 }
+.bio {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+}
+.bio:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    background-color: #16181660;
+}
