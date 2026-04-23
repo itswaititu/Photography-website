@@ -1,0 +1,36 @@
+# My Personal Website
+
+## Description
+This is my personal website project, built to showcase my portfolio, blog, and contact information. It's a simple, responsive site designed with modern web technologies.
+
+## Features
+- Responsive design for mobile and desktop
+- Portfolio section with project highlights
+- Blog with markdown support
+- Contact form
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- [Framework/Libraries, e.g., React, if applicable]
+
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/my-personal-website.git`
+2. Navigate to the project directory: `cd my-personal-website`
+3. Install dependencies: `npm install` (if using Node.js)
+4. Run the development server: `npm start`
+
+## Usage
+- Open `index.html` in your browser for a static site.
+- For dynamic features, follow the installation steps above.
+
+## Contributing
+Feel free to fork the repository and submit pull requests. Please ensure your code follows the project's style guidelines.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)

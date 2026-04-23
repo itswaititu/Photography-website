@@ -32,7 +32,7 @@ section {
 }
 section:hover {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
-    background-color: #2b2e2b60;
+    background-color: #333533f5;
 }
 .h1 {
     color: white;
@@ -212,7 +212,7 @@ form button:active {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
     background-color: #16181660;
 }
-.h1 {
+.h5 {
     color: black;
     text-align: center;
     text-decoration: underline;
